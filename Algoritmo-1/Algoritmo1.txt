@@ -1,0 +1,8 @@
+1.Inicio
+2.Pedir la longitud de la base del triangulo
+3.BaseTriangulo
+4.Pedir la altura del triangulo
+5.AlturaTriangulo
+6.Calcular el area del triangulo= (BaseTriangulo*AlturaTriangulo)/2
+7.AreaTriangulo
+8.Fin
