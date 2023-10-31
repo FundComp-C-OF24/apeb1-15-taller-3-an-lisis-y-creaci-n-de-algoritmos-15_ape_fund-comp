@@ -1,0 +1,9 @@
+1.Inicio
+2.Pedir un numero X= (2<=X<=6)
+3.Verificar si X=(2<=X<=6)
+4.Sumar X por si mismo
+5.X+X
+5.Detener cuando X divido para X de 12
+6.X/X<=12
+7.Mostrar la tabla
+8.Fin
