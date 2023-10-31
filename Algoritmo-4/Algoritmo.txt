@@ -1,0 +1,8 @@
+1.Inicio
+2.Pedir el costo por minutos
+3.CostoMinutos
+4.Pedir el numero de minutos
+5.NumeroMinutos
+6.Calcular el valor de la planilla= (CostoMinutos*NumeroMinutos)
+7.Valor de la Plantilla
+8.Fin
