@@ -1,0 +1,8 @@
+1.Inicio
+2.Pedir el lado del cuadro perfecto
+3.Lado
+4.Pedir la altura del triangulo
+5.Altura
+6.Calcular el AreaTotal= ((Lado^2)+(3((Lado*Altura)/2))+(Lado*Altura))
+7.AreaTotal
+8.Fin
