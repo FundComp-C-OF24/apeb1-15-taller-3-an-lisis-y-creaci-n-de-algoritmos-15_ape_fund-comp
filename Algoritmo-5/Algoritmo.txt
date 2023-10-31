@@ -1,0 +1,12 @@
+1.Inicio
+2.Pedir costo CPU
+3.CPU
+4.Pedir costo Teclado
+5.Teclado
+6.Pedir costo Pantalla
+7.Pantalla
+8.Pedir costo Raton
+9.Raton
+10.Calcular el coso de la computador= (CPU+Teclado+Pantalla+Raton)
+11.Costo Computadora
+12.Fin
