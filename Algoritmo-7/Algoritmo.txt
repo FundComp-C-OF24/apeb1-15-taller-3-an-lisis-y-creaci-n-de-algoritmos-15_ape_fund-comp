@@ -1,0 +1,13 @@
+1.Inicio
+2.Pedir el costo de Kilovatio/hora
+3.KWH
+4.Pedir la cantidad de Kilovatios consumidos en el mes
+5.KWM
+6.Pedir la edad del usuario
+7.Usuario
+6.Calcular la cantidad a cancelar por el consumo= (KWH*KWM)
+7.CostoPlantilla
+8.Aplicar el descuento= (Usuario=>65)
+9.Si es verdadero= (CostoPlantilla-(CostoPlantilla*10/100))
+10.CostoPlantilla+Descuento
+11.Fin
