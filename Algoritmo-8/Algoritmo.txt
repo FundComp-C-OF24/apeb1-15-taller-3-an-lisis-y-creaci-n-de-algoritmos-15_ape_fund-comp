@@ -1,0 +1,16 @@
+1.Inicio
+2.Pedir valor Netflix
+3.Netflix
+4.Pedir valor YouTube Premium
+5.YouTube
+6.Pedir valor Dropbox
+7.Dropbox
+8.Pedir valor Spotify
+9.Spotify
+10.Pedir edad del usuario
+11.Usuario
+12.Calcular ValorTotal= (Netflix+YouTube+Dropbox+Spotify)
+13.Se aplica el descuento si (Usuario<=30)
+14.Aplicar ValorTotalDescuento= (ValorTotal-(ValorTotal*(20/100))
+15.ValorTotalDescuento
+16.Fin
